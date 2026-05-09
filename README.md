@@ -1,11 +1,5 @@
 # PyTitration-Sim-Lab 🧪
 
-[English](#english) | [中文說明](#中文說明)
-
----
-
-## English
-
 ### ## 主題 (Subject)
 **Interactive Virtual Acid-Base Titration Laboratory**
 
