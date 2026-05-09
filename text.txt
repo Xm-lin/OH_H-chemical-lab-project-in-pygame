@@ -1,0 +1,10 @@
+我要上傳到github幫我寫:
+
+1.name 
+2.description
+3.README_eng.md 和 README_Chinese.md
+README內容:
+(1)##主題
+(2)##description
+(3)##環境需求
+(4)##操作介紹
